@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<module>
+    <name>dashproducts</name>
+    <displayName><![CDATA[محصولات پیشخوان]]></displayName>
+    <version><![CDATA[2.1.1]]></version>
+    <description><![CDATA[افزودن یک بلوک با یک جدول از آخرین سفارش&lrm;ها و رتبه&zwnj;بندی محصولات]]></description>
+    <author><![CDATA[PrestaShop]]></author>
+    <tab><![CDATA[dashboard]]></tab>
+    <is_configurable>0</is_configurable>
+    <need_instance>1</need_instance>
+	<limited_countries></limited_countries>
+</module>

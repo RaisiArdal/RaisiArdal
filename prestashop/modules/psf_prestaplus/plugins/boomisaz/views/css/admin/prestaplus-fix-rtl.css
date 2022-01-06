@@ -1,0 +1,57 @@
+#carrier_wizard .stepContainer .step_container{
+  left: auto !important;
+  right: 0px !important;
+}
+
+.bootstrap #datepicker .daterangepicker-days .row > div {
+  float: left;
+}
+
+.bootstrap #carrier_wizard li:last-child a .chevron::after{
+  display: none !important;
+}
+
+.chosen-container-multi .chosen-choices .search-choice .search-choice-close{
+	background-position: right top;
+}
+.chosen-container-multi .chosen-choices .search-choice .search-choice-close:hover{
+	background-position: right -11px;
+}
+
+
+/*----------------------------------*/
+.popover.bs-popover-right{
+  left : -305px !important;
+}
+.configuration-rectangle .col-lg-11 {
+  text-align: right !important;
+}
+
+
+.main-header > .logo{
+    position: relative;
+    right: -25px;
+}
+.main-header{
+    z-index: 1039;
+}
+.header-toolbar{
+    z-index: 500;
+}
+.select2-dropdown{
+    position: relative;
+    z-index: 440;
+}
+#gamification_notif .dropdown-menu::before,
+#gamification_notif .dropdown-menu::after{
+    left: 8px !important;
+    right: auto !important;
+}
+.md-checkbox input[type="checkbox"]:checked + i.md-checkbox-control::after{
+    transform: rotate(-45deg) scaleX(-1) !important;
+}
+@media( max-width: 1024px ) {
+    .main-header > .logo{
+        right: 0px;
+    }
+}

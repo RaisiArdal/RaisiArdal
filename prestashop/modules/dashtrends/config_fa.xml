@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<module>
+    <name>dashtrends</name>
+    <displayName><![CDATA[روند داشبورد]]></displayName>
+    <version><![CDATA[2.0.3]]></version>
+    <description><![CDATA[یک بلوک با نمایش گرافیکی توسعه فروشگاه(های) شما بر اساس کلید داده می&zwnj;افزاید.]]></description>
+    <author><![CDATA[PrestaShop]]></author>
+    <tab><![CDATA[dashboard]]></tab>
+    <is_configurable>0</is_configurable>
+    <need_instance>1</need_instance>
+	<limited_countries></limited_countries>
+</module>

@@ -1,0 +1,91 @@
+1640457622
+s:6228:"<?xml version="1.0" encoding="utf-8" ?><rss version="2.0" xml:base="https://www.prestashop.com/en/blog/feed.xml" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:og="http://ogp.me/ns#" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:sioc="http://rdfs.org/sioc/ns#" xmlns:sioct="http://rdfs.org/sioc/types#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
+  <channel>
+    <title>Blog Feed</title>
+    <link>https://www.prestashop.com/en/blog/feed.xml</link>
+    <description></description>
+    <language>en</language>
+     <atom:link href="https://www.prestashop.com/en/blog/feed.xml" rel="self" type="application/rss+xml" />
+      <item>
+    <title>Develop a content strategy to help your store stand out this Holiday Season</title>
+    <link>https://www.prestashop.com/en/blog/tiktok-strategy-ecommerce</link>
+    <description>We don&#039;t need to tell you that December is the key shopping month for online stores but with increased sales opportunities comes greater competition for customers&#039; attention.</description>
+     <pubDate>Tue, 21 Dec 2021 11:27:05 +0100</pubDate>
+ <dc:creator>Simon Fowler</dc:creator>
+ <guid isPermaLink="false">https://www.prestashop.com/en/blog/tiktok-strategy-ecommerce</guid>
+  </item>
+  <item>
+    <title>Five tips for developing your international business</title>
+    <link>https://www.prestashop.com/en/blog/tips-international-ecommerce</link>
+    <description>With the internet, sales no longer have borders.</description>
+     <pubDate>Mon, 13 Dec 2021 17:46:00 +0100</pubDate>
+ <dc:creator>PrestaShop Team</dc:creator>
+ <guid isPermaLink="false">https://www.prestashop.com/en/blog/tips-international-ecommerce</guid>
+  </item>
+  <item>
+    <title>Ten things every customer appreciates when buying online</title>
+    <link>https://www.prestashop.com/en/blog/tips-happy-customer</link>
+    <description>There are millions of online stores, which means you have to make your digital brand stand out as much as you can.</description>
+     <pubDate>Mon, 13 Dec 2021 15:53:13 +0100</pubDate>
+ <dc:creator>Nahla Davies</dc:creator>
+ <guid isPermaLink="false">https://www.prestashop.com/en/blog/tips-happy-customer</guid>
+  </item>
+  <item>
+    <title>What is Facebook Conversions API and why it’s important for your ecommerce business</title>
+    <link>https://www.prestashop.com/en/blog/facebook-conversion-api-ecommerce</link>
+    <description>There’s no doubt we live in a data driven world, and it won’t change. No business can really survive without accurate data to build strategies, track progress and drive success.</description>
+     <pubDate>Fri, 03 Dec 2021 12:08:06 +0100</pubDate>
+ <dc:creator>PrestaShop Team</dc:creator>
+ <guid isPermaLink="false">https://www.prestashop.com/en/blog/facebook-conversion-api-ecommerce</guid>
+  </item>
+  <item>
+    <title>Visibility for ecommerce on Google: Think beyond SEO &amp;amp; SEA</title>
+    <link>https://www.prestashop.com/en/blog/visibility-google-ecommerce</link>
+    <description>There are many ways to improve the visibility of your ecommerce on Google; in fact, whole careers and marketing departments are based on optimizing websites for better rankings on </description>
+     <pubDate>Thu, 02 Dec 2021 11:49:27 +0100</pubDate>
+ <dc:creator>PrestaShop Team</dc:creator>
+ <guid isPermaLink="false">https://www.prestashop.com/en/blog/visibility-google-ecommerce</guid>
+  </item>
+  <item>
+    <title>How to take your ecommerce ERP to the next level with Microsoft Dynamics 365 Business Central</title>
+    <link>https://www.prestashop.com/en/blog/erp-for-ecommerce</link>
+    <description>The success of your ecommerce lies in the superior user experience, relevant data collection, and integration.</description>
+     <pubDate>Tue, 30 Nov 2021 13:56:34 +0100</pubDate>
+ <dc:creator>Invertus</dc:creator>
+ <guid isPermaLink="false">https://www.prestashop.com/en/blog/erp-for-ecommerce</guid>
+  </item>
+  <item>
+    <title>Ecommerce funding alternatives to grow your small business</title>
+    <link>https://www.prestashop.com/en/blog/alternative-funding-ecommerce</link>
+    <description>Small business owners are all too familiar with the challenges of securing funding for their company, especially in the early days.</description>
+     <pubDate>Mon, 29 Nov 2021 15:45:54 +0100</pubDate>
+ <dc:creator>Jade Tremblay</dc:creator>
+ <guid isPermaLink="false">https://www.prestashop.com/en/blog/alternative-funding-ecommerce</guid>
+  </item>
+  <item>
+    <title>What are the benefits of the Buy now, Pay later solution for your online shop</title>
+    <link>https://www.prestashop.com/en/blog/bnpl-clearpay-ecommerce</link>
+    <description>The growing adoption of Buy now, Pay Later payment methods is driven by consumers’ desire for flexibility and agile solutions. </description>
+     <pubDate>Wed, 24 Nov 2021 12:16:00 +0100</pubDate>
+ <dc:creator>Clémence Bourdier.</dc:creator>
+ <guid isPermaLink="false">https://www.prestashop.com/en/blog/bnpl-clearpay-ecommerce</guid>
+  </item>
+  <item>
+    <title>Ending the myth about selling online for free </title>
+    <link>https://www.prestashop.com/en/blog/truth-about-selling-online-free</link>
+    <description>If you landed on this blog post you are probably thinking about ways to create an online store, and wande</description>
+     <pubDate>Mon, 22 Nov 2021 13:48:54 +0100</pubDate>
+ <dc:creator>PrestaShop Team</dc:creator>
+ <guid isPermaLink="false">https://www.prestashop.com/en/blog/truth-about-selling-online-free</guid>
+  </item>
+  <item>
+    <title>Why are product titles so important?</title>
+    <link>https://www.prestashop.com/en/blog/importance-product-titles</link>
+    <description>In the following article, you will get familiar with the importance of title tags and their role in your shop’s search engine rankings.</description>
+     <pubDate>Wed, 17 Nov 2021 17:56:18 +0100</pubDate>
+ <dc:creator>Tamas Nagy</dc:creator>
+ <guid isPermaLink="false">https://www.prestashop.com/en/blog/importance-product-titles</guid>
+  </item>
+  </channel>
+</rss>
+";

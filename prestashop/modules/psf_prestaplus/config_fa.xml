@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<module>
+    <name>psf_prestaplus</name>
+    <displayName><![CDATA[پرستاپلاس]]></displayName>
+    <version><![CDATA[2.8.4]]></version>
+    <description><![CDATA[پرستاپلاس ؛ امکانات و قابلیتهای کاربردی در پرستاشاپ]]></description>
+    <author><![CDATA[Prestafa.com]]></author>
+    <tab><![CDATA[administration]]></tab>
+    <is_configurable>1</is_configurable>
+    <need_instance>1</need_instance>
+	<limited_countries></limited_countries>
+</module>

@@ -1,0 +1,6 @@
+#search_filters .facet .facet-label a,
+#search_filters_brands .facet .facet-label a,
+#search_filters_suppliers .facet .facet-label a {
+  font-size: 0.78rem !important;
+  letter-spacing: -0.9px !important;
+}

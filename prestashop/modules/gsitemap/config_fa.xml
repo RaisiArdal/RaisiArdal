@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<module>
+    <name>gsitemap</name>
+    <displayName><![CDATA[نقشه گوگلی سایت]]></displayName>
+    <version><![CDATA[4.2.0]]></version>
+    <description><![CDATA[ایجاد نقشه گوگلی سایت شما]]></description>
+    <author><![CDATA[PrestaShop]]></author>
+    <tab><![CDATA[seo]]></tab>
+	<confirmUninstall><![CDATA[آیا اطمینان دارید که می خواهید این ماژول را حذف کنید؟?]]></confirmUninstall>
+    <is_configurable>1</is_configurable>
+    <need_instance>0</need_instance>
+	<limited_countries></limited_countries>
+</module>

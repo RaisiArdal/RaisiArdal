@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<module>
+    <name>blockreassurance</name>
+    <displayName><![CDATA[اعتمادسازی مشتری]]></displayName>
+    <version><![CDATA[5.0.0]]></version>
+    <description><![CDATA[با مشتریان خود ارتباط برقرار کنید و با برجسته کردن خدمات خود به آنها اطمینان دهید: پرداخت امن، ارسال رایگان، بازگشت و غیره.]]></description>
+    <author><![CDATA[PrestaShop]]></author>
+    <tab><![CDATA[seo]]></tab>
+	<confirmUninstall><![CDATA[آیا اطمینان دارید که می خواهید این ماژول را حذف کنید؟?]]></confirmUninstall>
+    <is_configurable>1</is_configurable>
+    <need_instance>0</need_instance>
+	<limited_countries></limited_countries>
+</module>

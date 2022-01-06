@@ -1,0 +1,27 @@
+.prestapay-gate.payment_module {
+    background:  #fbfbfb;
+}
+.prestapay-gate.payment_module a{
+    display: flex;
+    align-items: center;
+}
+.prestapay-gate.payment_module a,
+.prestapay-gate.payment_module.ps17 {
+    padding:13px 30px 13px 40px !important;
+    color: #4a4a4a !important;
+}
+.prestapay-gate.payment_module img {
+    max-width: 64px;
+    margin-left: 10px;
+    float: none !important;
+}
+
+.ltr.prestapay-gate.payment_module a,
+.ltr.prestapay-gate.payment_module.ps17 {
+    padding:5px 20px !important;
+}
+.ltr.prestapay-gate.payment_module img {
+    margin-right: 10px;
+    margin-left: 0;
+    max-width: 36px;
+}

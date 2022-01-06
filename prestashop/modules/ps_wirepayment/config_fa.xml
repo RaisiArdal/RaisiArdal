@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<module>
+    <name>ps_wirepayment</name>
+    <displayName><![CDATA[پرداخت الکترونیکی]]></displayName>
+    <version><![CDATA[2.1.0]]></version>
+    <description><![CDATA[با پذیرش پرداخت&zwnj;های از راه دور و نمایش مشخصات حساب خود در زمان ثبت سفارش، خرید از فروشگاه را برای مشتریان خود راحت کنید.]]></description>
+    <author><![CDATA[PrestaShop]]></author>
+    <tab><![CDATA[payments_gateways]]></tab>
+	<confirmUninstall><![CDATA[آیا از حذف جزئیات حساب خود، مطمئن هستید؟]]></confirmUninstall>
+    <is_configurable>1</is_configurable>
+    <need_instance>1</need_instance>
+	<limited_countries></limited_countries>
+</module>

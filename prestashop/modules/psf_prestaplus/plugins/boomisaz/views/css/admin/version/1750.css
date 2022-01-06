@@ -1,0 +1,13 @@
+.main-header .employee-dropdown .dropdown-menu{
+    transform: translate3d(146px, 24px, 0px) !important;
+}
+.main-header .notification-center .dropdown-menu{
+    transform: translate3d(366px, 39px, 0px) !important;
+}
+#gamification_notif .dropdown-menu,
+.bootstrap #header_infos #gamification_notif .dropdown-menu{
+    transform: translate3d(328px, 20px, 0px) !important;
+}
+.module-category-selector{
+    transform: translate3d(0, 0, 0)!important;
+}

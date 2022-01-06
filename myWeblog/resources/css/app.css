@@ -1,0 +1,328 @@
+@font-face {
+    font-family: 'Vazir';
+    src: url(/fonts/Vazir.ttf?83fea749de20816026b16ffb75e4a3b2);
+    font-weight: normal;
+    font-style: normal;
+}
+@media print {
+    #header ,#menu,#topMenu,#navMain,#navMainSmall, #footer , #sidebar,#TopDashboard,.hidden-print { display: none; }
+}
+*{
+    font-family: 'Vazir',"Helvetica Neue", Helvetica, Arial, sans-serif !important;
+    font-size:14px ;
+}
+
+.iconSvg
+{
+    width: 30px!important;
+    height: 30px!important;
+}
+#imgLogo
+{
+    width: 20px;
+    height: 100%;
+    margin-top: -15px ;
+    padding: 0px;
+}
+#mainNav
+{
+    display: block;
+    height: 50px;
+    line-height: 27px;
+    background: #f7f8fa;
+
+}
+body,html
+{
+    direction: rtl;
+}
+body {
+    font-family: Vazir,Helvetica Neue,Helvetica,Lucida Grande,Arial,Ubuntu,Cantarell,Fira Sans,sans-serif;
+    text-rendering: optimizeLegibility;
+    font-feature-settings: "Vazir";
+}
+
+
+#topHeader
+{
+    height: 30px;
+    line-height: 27px;
+    background: #ddd;
+}
+#logoSite
+{
+    height: 100px;
+
+}
+#myFooter {
+    background-color: #0f0f0f;
+    color: white;
+    height: 350px;
+}
+.myContainer
+{
+    width: 90%;
+}
+*{
+    font-family: 'Vazir',"Helvetica Neue", Helvetica, Arial, sans-serif !important;
+    font-size:14px ;
+}
+body
+{
+    direction: rtl;
+}
+ul{
+    list-style: none;
+    margin: 0;
+    padding: 0;
+}
+a{
+    text-decoration: none;
+}
+#topMenu
+{
+    background: #003852;
+}
+.marqueeBlock {
+    -webkit-animation: marquee 10s linear infinite;
+    animation: marquee 10s linear infinite;
+}
+@-webkit-keyframes marquee {
+    0% {
+        transform: translateX(-10%);
+    }
+    100% {
+        transform: translateX(60%);
+    }
+}
+@keyframes marquee {
+    0% {
+        transform: translateX(-10%);
+    }
+    100% {
+        transform: translateX(60%);
+    }
+}
+#header
+{
+    background:no-repeat;
+    background-size: 100% , 100%;
+
+}
+#mainMenu
+{
+    background: #74869d;
+}
+#slider
+{
+    width: 100%;
+    height: 400px;
+    overflow: hidden;
+}
+
+#newsSlide #newsList{
+    overflow: hidden;
+}
+
+#sliderAllBtn{
+    z-index: 100;
+}
+
+#branch
+{
+    height: 40px;
+}
+.branchPart
+{
+    font-size: 3vmin;
+    text-align: center;
+    font-weight: bold;
+}
+#class
+{
+    height: 250px;
+
+}
+#classTop
+{
+    font-size: 4vmin;
+    text-align: center;
+    font-weight: bold;
+    height: 30px;
+}
+#vSlider
+{
+    height: 160px;
+    overflow: hidden;
+    position: relative;
+}
+#nextVSlider
+{
+    top: 50px;
+}
+#preVSlider
+{
+    position: absolute;
+    top: 50px;
+}
+.vSliderItem
+{
+    text-align: center;
+}
+input
+{
+    width: 100%;
+}
+button
+{
+    width: 100%;
+
+}
+#wSlider
+{
+    overflow: hidden;
+}
+.wSliderItem
+{
+    font-size: 4vmin;
+}
+#preWSlider
+{
+    top: 80px;
+}
+
+#nextWSlider
+{
+    top: 80px;
+}
+.subMainMenu
+{
+    display: none;
+    float: right ;
+
+}
+.subMainMenu li
+{
+    width: 100% !important;
+    line-height: 25px;
+    background: #7886d7;
+    z-index: inherit;
+}
+.subMainMenu li:hover
+{
+    opacity: 70%;
+}
+.mainMenuItem:hover .subMainMenu
+{
+    display: block;
+
+}
+.more
+{
+    display: none;
+}
+.showReadMore .moreText{
+    display: none;
+}
+.newsPost
+{
+    text-align: center;
+    padding: 15px;
+}
+.newsPost .card-title
+{
+    color: #6EC1E4;
+    font-size: xx-large;
+}
+.newsPostDate
+{
+    position: absolute;
+    top: 15px;
+    right: 25px;
+    z-index: 2;
+    display: inline-block;
+    min-width: 53px;
+    -webkit-border-radius: 5px;
+    background-color: #FFF;
+    box-shadow: 0 0 12px rgba(5,10,0,.1);
+    color: #333;
+    text-align: center;
+    line-height: 1;
+}
+.newsPostDay
+{
+    padding-top: 6px;
+    padding-bottom: 4px;
+    font-size: 24px;
+}
+.newsPostMonth
+{
+    padding-top: 2px;
+    padding-bottom: 8px;
+    text-transform: uppercase;
+    letter-spacing: .3px;
+    font-weight: 600;
+    font-size: 12px;
+}
+.imgNewsPost
+{
+    height: auto;
+    max-width: 100%;
+    border: none;
+    border-radius: 10px;
+    box-shadow: none;
+}
+.newsPostLabel
+{
+    width: 35%;
+    position: relative;
+    margin-top: -10px;
+    display: inline-block;
+    color: #FFF;
+    vertical-align: top;
+    text-transform: uppercase;
+    letter-spacing: .3px;
+    font-weight: 600;
+    font-size: 12px;
+    border-radius: 10px;
+    background-color: #61CE70;
+}
+.newsPostTitle
+{
+    font-size: x-large;
+}
+
+.showReadMore{
+
+    position: relative;
+    display: inline-block;
+    border-bottom: none;
+    text-decoration: none;
+    text-transform: uppercase;
+    letter-spacing: .3px;
+    font-weight: 800;
+    font-size: 13px;
+}
+
+
+.icon-bar {
+    width: 90px; /* Set a specific width */
+    background-color: #555; /* Dark-grey background */
+}
+
+.icon-bar a {
+    display: block; /* Make the links appear below each other instead of side-by-side */
+    text-align: center; /* Center-align text */
+    padding: 16px; /* Add some padding */
+    transition: all 0.3s ease; /* Add transition for hover effects */
+    color: white; /* White text color */
+    font-size: 36px; /* Increased font-size */
+}
+
+.icon-bar a:hover {
+    background-color: #000; /* Add a hover color */
+}
+
+.active {
+    background-color: #04AA6D; /* Add an active/current color */
+}
